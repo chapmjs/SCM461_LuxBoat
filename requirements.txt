@@ -1,0 +1,16 @@
+# Python dependencies for LuxBoat Due Date Calculator
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Streamlit app
+streamlit>=1.28.0
+
+# Optional: Jupyter widgets for interactive notebooks
+ipywidgets>=8.0.0
